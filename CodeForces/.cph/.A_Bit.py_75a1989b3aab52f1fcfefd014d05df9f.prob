@@ -1,0 +1,1 @@
+{"name":"Local: A_Bit","url":"c:\\Users\\admin\\OneDrive\\Desktop\\python\\Code forces\\A_Bit.py","tests":[{"id":1776960102866,"input":"1 \n++x","output":"1"},{"id":1776960125779,"input":"2\nx++\n--X","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\admin\\OneDrive\\Desktop\\python\\Code forces\\A_Bit.py","group":"local","local":true}

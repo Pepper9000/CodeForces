@@ -1,0 +1,9 @@
+k = int(input())
+l = int(input())
+m = int(input())
+n = int(input())
+a = set()
+for i in range(1, int(input())+1):
+    if i % k==0 or i % l==0  or i % m==0 or i % n==0:
+        a.add(i)
+print(len(a))

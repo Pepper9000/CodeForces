@@ -1,0 +1,1 @@
+print(4 - len(set(map(str, input().split()))))
